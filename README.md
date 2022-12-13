@@ -12,12 +12,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HaraDev001&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Worked%20as%20Blockchain Engineer%20on%20a%20blockchain%20company;Senior%20Full-Stack%20%26%20Blockchain%20Engineer;3+%2B%20years%20experiences%20of%20managing%20team;7+%2B%20years%20of%20working%20experiences%20in%20development&width=500&height=45">
-  </a>
-</p>
-
 ## Skills
 
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS
