@@ -6,10 +6,10 @@
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HaraDev001&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations" alt="Followers, Commits, Stars, Repositories, PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=SecretStar0920&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations" alt="Followers, Commits, Stars, Repositories, PullRequest">
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HaraDev001&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SecretStar0920&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
 
 ## Skills
@@ -38,7 +38,7 @@
 
 <div align="center">
   <p>
-    <code><img height="20" src="https://github.com/HaraDev001/HaraDev001/blob/main/email.jpg"></code> dev.secretstar@gmail.com <br />
-    <code><img height="20" src="https://github.com/HaraDev001/HaraDev001/blob/main/telegram.jpg"></code> https://t.me/secretstar0920 <br />    
+    <code><img height="20" src="https://github.com/SecretStar0920/SecretStar0920/blob/master/email.jpg"></code> dev.secretstar@gmail.com <br />
+    <code><img height="20" src="https://github.com/SecretStar0920/SecretStar0920/blob/master/telegram.jpg"></code> https://t.me/secretstar0920 <br />    
   </p>
 </div>
